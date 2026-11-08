@@ -1,0 +1,12 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+*.out
+
+# clangd cache
+.cache/
+
+# OS specific files
+.DS_Store
+Thumbs.db

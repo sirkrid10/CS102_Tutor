@@ -1,0 +1,13 @@
+{
+  "clangd.arguments": [
+    "--query-driver=C:/msys64/ucrt64/bin/gcc.exe",
+    "--background-index",
+    "--header-insertion=never"
+  ],
+  "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+  "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/**",
+    "C:/msys64/ucrt64/include/**"
+  ]
+}
