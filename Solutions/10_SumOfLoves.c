@@ -17,7 +17,7 @@
 
 int main() {
     char str[300];
-    if (scanf("%[^\n]", str) != 1) return 0;
+    scanf("%[^\n]", str);
 
     long long checksum = 0;
     int len = strlen(str);

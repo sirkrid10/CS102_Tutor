@@ -16,7 +16,7 @@
 
 int main() {
     int n, k, t;
-    if (scanf("%d %d %d", &n, &k, &t) != 3) return 0;
+    scanf("%d %d %d", &n, &k, &t);
 
     int count_on_time = 0;
     for (int i = 0; i < n; i++) {

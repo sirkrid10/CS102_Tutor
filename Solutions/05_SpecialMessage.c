@@ -20,7 +20,7 @@ int is_vowel(char ch) {
 
 int main() {
     char str[1005];
-    if (scanf("%s", str) != 1) return 0;
+    scanf("%s", str);
 
     int total_words = 0;
     int vowel_words = 0;

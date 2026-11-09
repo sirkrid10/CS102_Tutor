@@ -14,7 +14,7 @@
 
 int main() {
     int n;
-    if (scanf("%d", &n) != 1) return 0;
+    scanf("%d", &n);
 
     int freq[25] = {0};
     for (int i = 0; i < n; i++) {

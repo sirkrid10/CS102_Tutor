@@ -11,7 +11,7 @@
 
 int main() {
     int n;
-    if (scanf("%d", &n) != 1) return 0;
+    scanf("%d", &n);
 
     while (n >= 10) {
         int sum = 0;
