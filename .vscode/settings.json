@@ -1,8 +1,26 @@
 {
+  "editor.formatOnSave": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "never"
+  },
+  "[c]": {
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "never"
+    }
+  },
+  "[cpp]": {
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "never"
+    }
+  },
+  "C_Cpp.formatting": "disabled",
   "clangd.arguments": [
     "--query-driver=C:/msys64/ucrt64/bin/gcc.exe",
     "--background-index",
-    "--header-insertion=never"
+    "--header-insertion=never",
+    "--clang-tidy=false"
   ],
   "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
   "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",

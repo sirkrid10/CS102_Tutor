@@ -9,3 +9,6 @@ CompileFlags:
     - C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed
   Compiler: C:/msys64/ucrt64/bin/gcc.exe
 
+Diagnostics:
+  ClangTidy:
+    Remove: ["*"]

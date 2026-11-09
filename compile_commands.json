@@ -1,53 +1,108 @@
 [
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
-    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/01_BusTicket.c",
-    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/01_BusTicket.c"
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/01_SecretCode001.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/01_SecretCode001.c"
   },
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
-    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/02_DrawFlag.c",
-    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/02_DrawFlag.c"
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/02_Winners.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/02_Winners.c"
   },
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
-    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/03_MoreThanMean.c",
-    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/03_MoreThanMean.c"
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/03_SumMatrix.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/03_SumMatrix.c"
   },
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
-    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/04_SumMatrix.c",
-    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/04_SumMatrix.c"
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/04_WordChains.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/04_WordChains.c"
   },
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
-    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/05_SpecialMessage.c",
-    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/05_SpecialMessage.c"
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/05_Enneagram.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/05_Enneagram.c"
   },
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
-    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/06_ClassCancellation.c",
-    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/06_ClassCancellation.c"
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/06_MaxProduct.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/06_MaxProduct.c"
   },
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
-    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/07_SwapMatrix.c",
-    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/07_SwapMatrix.c"
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/07_MinSumSubArray.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/07_MinSumSubArray.c"
   },
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
-    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/08_LargestGroup.c",
-    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/08_LargestGroup.c"
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/08_Mushroom.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/08_Mushroom.c"
   },
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
-    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/09_MaxSumSubArray.c",
-    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/09_MaxSumSubArray.c"
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/09_SumOfLoves.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/09_SumOfLoves.c"
   },
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
-    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/10_SumOfLoves.c",
-    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/10_SumOfLoves.c"
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/10_numberTriangle.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/10_numberTriangle.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/New/11_NoisySequence.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/New/11_NoisySequence.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/Old/01_BusTicket.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/Old/01_BusTicket.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/Old/02_DrawFlag.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/Old/02_DrawFlag.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/Old/03_MoreThanMean.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/Old/03_MoreThanMean.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/Old/04_SumMatrix.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/Old/04_SumMatrix.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/Old/05_SpecialMessage.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/Old/05_SpecialMessage.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/Old/06_ClassCancellation.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/Old/06_ClassCancellation.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/Old/07_SwapMatrix.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/Old/07_SwapMatrix.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/Old/08_LargestGroup.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/Old/08_LargestGroup.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/Old/09_MaxSumSubArray.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/Old/09_MaxSumSubArray.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Solutions/Old/10_SumOfLoves.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Solutions/Old/10_SumOfLoves.c"
   },
   {
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
@@ -93,5 +148,10 @@
     "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
     "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Starter_Templates/09_MaxSumSubArray_starter.c",
     "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Starter_Templates/09_MaxSumSubArray_starter.c"
+  },
+  {
+    "directory": "c:/Users/siraw/Documents/University/CS102_Tutor",
+    "command": "C:/msys64/ucrt64/bin/gcc.exe -std=c11 --target=x86_64-w64-windows-gnu -isystem C:/msys64/ucrt64/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include -isystem C:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/14.2.0/include-fixed -c Starter_Templates/10_SumOfLoves_starter.c",
+    "file": "c:/Users/siraw/Documents/University/CS102_Tutor/Starter_Templates/10_SumOfLoves_starter.c"
   }
 ]
