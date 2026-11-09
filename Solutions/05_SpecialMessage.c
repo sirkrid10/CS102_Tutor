@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <string.h>
+
 
 /*
  * โจทย์: ข้อความพิเศษ (SpecialMessage)
@@ -12,6 +11,9 @@
  *   - เช็คว่าตัวอักษรเริ่มต้นนั้นเป็นสระหรือไม่ (a, e, i, o, u ทั้งเล็กและใหญ่)
  *   - นับจำนวนคำทั้งหมด (เท่ากับจำนวน '_' + 1 หรือนับจากจุดเริ่มคำ)
  */
+
+#include <stdio.h>
+#include <string.h>
 
 int is_vowel(char ch) {
     return (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||

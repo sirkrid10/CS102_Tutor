@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 
 /*
  * โจทย์: มากกว่าค่าเฉลี่ย (MoreThanMean)
@@ -8,6 +8,7 @@
  *   - Pass 2: วนลูปตรวจเช็คว่ามีสมาชิกกี่ตัวที่มีค่ามากกว่า mean (arr[i] > mean)
  *   - จุดระวัง: ข้อมูลเป็นจำนวนจริง ต้องใช้ double หรือ float
  */
+#include <stdio.h>
 
 int main() {
     int n;

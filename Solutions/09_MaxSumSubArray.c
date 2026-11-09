@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 
 /*
  * โจทย์: ผลบวกมากที่สุดของอาร์เรย์ย่อย (MaxSumSubArray)
@@ -12,6 +12,7 @@
  *     2. เลื่อนหน้าต่าง (Sliding Window): บวกตัวใหม่ arr[i] และลบตัวเก่า arr[i-5]
  *        หรือใช้ Nested Loop ธรรมดา (เนื่องจาก n <= 100 ขนาดเล็กมาก)
  */
+#include <stdio.h>
 
 int main() {
     int n;

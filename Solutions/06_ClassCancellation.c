@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <math.h>
+
 
 /*
  * โจทย์: การยกเลิกคลาสเรียน (ClassCancellation)
@@ -13,6 +12,8 @@
  *   - ถ้า count_on_time < req ให้ยกเลิก (พิมพ์ 0) มิฉะนั้นไม่ยกเลิก (พิมพ์ 1)
  *   - บรรทัดที่สอง พิมพ์จำนวนคนที่ขาด/ยังมาไม่ถึง = n - count_on_time
  */
+#include <stdio.h>
+#include <math.h>
 
 int main() {
     int n, k, t;
@@ -30,7 +31,9 @@ int main() {
     // คำนวณ k% ของ n ปัดเศษขึ้นเสมอ
     int req = (n * k + 99) / 100;
 
-    int is_cancelled = (count_on_time < req) ? 0 : 1;
+    int is_cancelled;
+    if(count_on_time < req) is_cancelled = 0;
+    else is_cancelled = 1;
     int missing = n - count_on_time;
 
     printf("%d\n", is_cancelled);

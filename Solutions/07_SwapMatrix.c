@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 
 /*
  * โจทย์: สลับค่าในเมทริกซ์ (SwapMatrix)
@@ -10,6 +10,7 @@
  *   - วนลูปหาค่ามากที่สุดของแต่ละแถว (0 ถึง 3) แล้วพิมพ์ออกมาคั่นด้วยช่องว่าง
  *   - จุดสำคัญ: ต้อง initialize max ของแต่ละแถวใหม่ทุกครั้งก่อนเริ่มลูปคอลัมน์!
  */
+#include <stdio.h>
 
 int main() {
     int m[4][5];
@@ -36,9 +37,9 @@ int main() {
                 row_max = m[i][j];
             }
         }
-        printf("%d%c", row_max, (i == 3 ? '\n' : ' '));
+        printf("%d", row_max);
+        if(i!=3) printf(" ");
     }
-
     return 0;
 }
 
